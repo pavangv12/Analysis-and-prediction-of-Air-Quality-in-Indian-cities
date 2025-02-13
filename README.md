@@ -58,7 +58,7 @@ All of India’s 1.4 billion people are exposed to unhealthy levels of harmful p
 
 **Best Model:** Random Forest (Randomized Search) with 86.4% validation accuracy
 
-## Deployment & Future Enhancements
+## Deployment & Future Enhancements:
 - **Real-Time AQI Dashboard:** Live monitoring & visualization of AQI levels.
 - **Predictive Alerts:** Early warnings based on machine learning predictions.
 - **Integration with Social Media & Maps:** Awareness campaigns and location-based pollution alerts.
